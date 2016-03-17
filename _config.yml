@@ -11,12 +11,12 @@ author:
 
 navlinks:
   - ["Home", ""]
-  - ["Philosophy", "philosophy/"]
-  - ["Budgeting", "budgeting/"]
-  - ["Debt Elimination", "debt-elimination/"]
-  - ["Financial Crisis", "financial-crisis/"]
-  - ["Real Estate", "real-estate/"]
-  - ["Wealth Building", "wealth-building/"]
+  - ["Philosophy", "philosophy.html"]
+  - ["Budgeting", "budgeting.html"]
+  - ["Debt Elimination", "debt-elimination.html"]
+  - ["Financial Crisis", "financial-crisis.html"]
+  - ["Real Estate", "real-estate.html"]
+  - ["Wealth Building", "wealth-building.html"]
   - ["Blog", "blog/"]
 
 # Gems
