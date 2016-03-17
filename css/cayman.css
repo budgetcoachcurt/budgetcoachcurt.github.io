@@ -232,10 +232,16 @@ a {
 .navbar {
     text-align: center;
     background-color: #3e3e3e;
-    padding: 5px;
+    padding: 10px;
 }
 
 .navbar a {
     padding-left: 10px;
     padding-right: 10px;
+    color: #a1c9c9;
 }
+
+.navbar .current {
+    color: #ffffff;
+}
+

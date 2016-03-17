@@ -16,7 +16,5 @@ By putting into practice what Dave Ramsey teaches you recover my fee. And the sa
 
 Are you sick and tired of being sick and tired about your finances? Then let’s do something about it. Let’s look toward the future and not dwell in the past. Let’s become proactive so you do not have to live from one paycheck to the next.
 
-Are you ready to take the first step?  We can discuss my pricing and our first meeting. Contact me [here](mailto:budgetcoachcurt@aol.com).
-
-
+Are you ready to take the first step?  We can discuss my pricing and our first meeting. [Contact me here](mailto:budgetcoachcurt@aol.com).
 

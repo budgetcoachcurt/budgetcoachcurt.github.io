@@ -3,7 +3,8 @@
   <h2 class="project-tagline">{{ site.tagline }}</h2>
 </section>
 <div class="navbar">
-  {% for page in site.pages %}
-  <a href="{{ page.url }}">{{ page.title }}</a> 
+  {% for link in site.navlinks %}
+    <a href="{{ site.baseurl }}/{{ link[1] }}" {% if page.title == link[0] %}class="current"{% endif %}>{{ link[0] }}</a>
   {% endfor %}
 </div>
+

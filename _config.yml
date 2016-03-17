@@ -9,12 +9,28 @@ author:
   name:       Curt Nordhielm
   url:        http://budgetcoachcurt.com
 
+navlinks:
+  - ["Home", ""]
+  - ["Philosophy", "philosophy/"]
+  - ["Budgeting", "budgeting/"]
+  - ["Debt Elimination", "debt-elimination/"]
+  - ["Financial Crisis", "financial-crisis/"]
+  - ["Real Estate", "real-estate/"]
+  - ["Wealth Building", "wealth-building/"]
+  - ["Blog", "blog/"]
+
 # Gems
 gems:
   - jekyll-paginate
 
 #Others
 markdown: kramdown
+
+gem:
+  - jekyll-paginate
+
+paginate: 20
+paginate_path: "/blog/page:num/"
 
 exclude:
   - vendor
