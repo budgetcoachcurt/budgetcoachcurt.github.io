@@ -2,3 +2,8 @@
   <h1 class="project-name">{{ site.title }}</h1>
   <h2 class="project-tagline">{{ site.tagline }}</h2>
 </section>
+<div class="navbar">
+  {% for page in site.pages %}
+  <a href="{{ page.url }}">{{ page.title }}</a> 
+  {% endfor %}
+</div>

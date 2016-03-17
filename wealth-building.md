@@ -2,6 +2,8 @@
 layout: default
 title: Wealth Building
 ---
+# Wealth Building
+
 Once you are debt free (except for your house) you can build wealth quickly and
 retire with dignity. Compound interest is a mathematical explosion that works
 to your advantage. Using a slow, methodical process you can accumulate wealth

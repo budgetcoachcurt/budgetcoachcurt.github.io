@@ -2,6 +2,7 @@
 layout: default
 title: Philosophy
 ---
+# Philosophy
 
 You are the owner of a professional football team. I want to be your head coach. My job will be to advise you on what is best for your situation. Since I sell no products or receive any kickbacks from anyone, I am free to advise as I see fit.
 
