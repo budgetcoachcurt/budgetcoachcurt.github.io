@@ -245,3 +245,14 @@ a {
     color: #ffffff;
 }
 
+.post-header-divider {
+    margin-top: -1.0em;
+    margin-bottom: -0.6em;
+    border-bottom: 1px solid #cccccc;
+}
+
+.post-header-date {
+    font-style: italic;
+    font-size: 80%;
+}
+
